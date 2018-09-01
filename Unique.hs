@@ -26,3 +26,5 @@ uniquestring :: String -> Bool
 uniquestring [] = False
 uniquestring (x:xs) = if x `elem` xs || uniquestring xs then False else True
 
+-- also look at Hyperloglog implementation, which is a smarter solution to finding distinct values
+
