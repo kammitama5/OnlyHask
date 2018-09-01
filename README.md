@@ -7,3 +7,6 @@ Only solve algorithms in Haskell
 - This is just a random repo; my bigger goal is to build actual projects,
   not just do challenges in Haskell. This is a good opportunity to
   also look at better ways of solving the same problems over time.
+  
+## Interesting Implementation
+- [Burrows-Wheeler Transform](https://en.wikipedia.org/wiki/Burrows–Wheeler_transform)
