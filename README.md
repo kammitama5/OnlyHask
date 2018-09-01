@@ -8,5 +8,6 @@ Only solve algorithms in Haskell
   not just do challenges in Haskell. This is a good opportunity to
   also look at better ways of solving the same problems over time.
   
-## Interesting Implementation
+## TODO
+## Interesting Implementations
 - [Burrows-Wheeler Transform](https://en.wikipedia.org/wiki/Burrows–Wheeler_transform)
